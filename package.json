@@ -1,0 +1,15 @@
+{
+  "name": "favget",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-jq": "^1.11.3",
+    "open": "^7.3.0",
+    "twitter": "^1.7.1",
+    "twitter-auth-await": "^1.1.1"
+  },
+  "scripts": {
+    "test": "node main.js"
+  }
+}
